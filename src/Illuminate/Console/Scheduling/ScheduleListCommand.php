@@ -103,6 +103,7 @@ class ScheduleListCommand extends Command
 
         return $list;
     }
+    
     /**
      * Get the spacing to be used on each event row.
      *
